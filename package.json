@@ -19,11 +19,11 @@
   "author": "Ratanak Lun",
   "license": "ISC",
   "devDependencies": {
-    "sequelize": "^3.24.1"
+    "sequelize": "3.24.1"
   },
   "dependencies": {
-    "debug": "^2.3.3",
-    "msnodesqlv8": "^0.2.11",
-    "uuid": "^3.0.0"
+    "debug": "2.3.3",
+    "msnodesqlv8": "0.2.11",
+    "uuid": "3.0.0"
   }
 }
