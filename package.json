@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "debug": "2.3.3",
-    "msnodesqlv8": "0.2.11",
+    "msnodesqlv8": "0.2.16",
     "uuid": "3.0.0"
   }
 }
