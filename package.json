@@ -1,6 +1,6 @@
 {
   "name": "sequelize-msnodesqlv8",
-  "version": "0.2.5",
+  "version": "0.2.6-beta.1",
   "description": "A sequelize dialect driver for the msnodesqlv8 module.",
   "main": "index.js",
   "scripts": {
