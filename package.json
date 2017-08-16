@@ -4,7 +4,7 @@
   "description": "A sequelize dialect driver for the msnodesqlv8 module.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/mocha.cmd"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,10 @@
   "author": "Ratanak Lun",
   "license": "ISC",
   "devDependencies": {
+    "chai": "4.1.1",
+    "chai-as-promised": "7.1.1",
+    "config": "1.26.2",
+    "mocha": "3.5.0",
     "sequelize": "3.24.1"
   },
   "dependencies": {
