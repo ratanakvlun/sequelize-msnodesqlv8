@@ -1,0 +1,7 @@
+{
+	"database": {
+		"server": "localhost",
+		"instanceName": "SQLEXPRESS",
+		"trustedConnection": true
+	}
+}
