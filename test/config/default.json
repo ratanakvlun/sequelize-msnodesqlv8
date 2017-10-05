@@ -2,6 +2,7 @@
 	"database": {
 		"server": "localhost",
 		"instanceName": "SQLEXPRESS",
+		"name": "sequelize-msnodesqlv8-test",
 		"trustedConnection": true
 	}
 }
