@@ -19,15 +19,15 @@
   "author": "Ratanak Lun",
   "license": "ISC",
   "devDependencies": {
-    "chai": "4.1.1",
+    "chai": "4.1.2",
     "chai-as-promised": "7.1.1",
     "config": "1.26.2",
-    "mocha": "3.5.0",
-    "sequelize": "3.24.1"
+    "mocha": "4.0.0",
+    "sequelize": "4.13.5"
   },
   "dependencies": {
-    "debug": "2.3.3",
+    "debug": "3.1.0",
     "msnodesqlv8": "0.3.2",
-    "uuid": "3.0.0"
+    "uuid": "3.1.0"
   }
 }
