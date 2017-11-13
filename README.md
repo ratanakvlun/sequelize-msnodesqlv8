@@ -1,5 +1,11 @@
+[npm-url]: https://npmjs.org/package/sequelize-msnodesqlv8
+[npm-version-image]: https://img.shields.io/npm/v/sequelize-msnodesqlv8.svg
+[npm-downloads-image]: https://img.shields.io/npm/dt/sequelize-msnodesqlv8.svg
+
 sequelize-msnodesqlv8
 =====================
+
+[![npm version][npm-version-image]][npm-url] [![npm downloads][npm-downloads-image]][npm-url]
 
 The `sequelize-msnodesqlv8` module is a mssql dialect driver for [`sequelize`](https://github.com/sequelize/sequelize).
 
