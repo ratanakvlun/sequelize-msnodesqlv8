@@ -7,6 +7,8 @@ sequelize-msnodesqlv8
 
 [![npm version][npm-version-image]][npm-url] [![npm downloads][npm-downloads-image]][npm-url]
 
+**NOTE: This module is no longer being actively maintained. May not be compatible with `msnodesqlv8` > 0.3.2**
+
 The `sequelize-msnodesqlv8` module is a mssql dialect driver for [`sequelize`](https://github.com/sequelize/sequelize).
 
 There are many node mssql clients and `sequelize` defaults to using [`tedious`](https://github.com/tediousjs/tedious), but being pure javascript,`tedious` lacks support for integrated security. [`msnodesqlv8`](https://github.com/TimelordUK/node-sqlserver-v8) is a client that interfaces with a native odbc library. This allows integrated security to be used. It does require additional binaries to deploy, but fortunately, `msnodesqlv8` is distributed with binaries for the most common architectures.
